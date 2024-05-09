@@ -1,2 +1,4 @@
 data
 nba-sports-tech
+venv
+.DS_Store
