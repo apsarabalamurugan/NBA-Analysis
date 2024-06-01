@@ -2,4 +2,4 @@ data
 nba-sports-tech
 .DS_Store
 venv
-sorted_dataframe.csv
+*.csv
