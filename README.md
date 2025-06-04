@@ -50,6 +50,6 @@ This project analyzes NBA data in ~10-year chunks to visualize player and team b
 ## 🛠 How to Run
 
 ```bash
-git clone https://github.com/your-username/nba-sports-tag.git
+git clone https://github.com/apsarabalamurugan/nba-analysis.git
 cd nba-sports-tag
 jupyter notebook
